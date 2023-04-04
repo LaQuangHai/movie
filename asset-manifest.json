@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/LaQuangHai/movie/static/css/main.952258c5.css",
-    "main.js": "/LaQuangHai/movie/static/js/main.a0ab0713.js",
-    "static/js/787.e253fc0a.chunk.js": "/LaQuangHai/movie/static/js/787.e253fc0a.chunk.js",
-    "static/media/footer.jpg": "/LaQuangHai/movie/static/media/footer.86d24c1b04f23de54e6d.jpg",
-    "static/media/header_catalog.jpg": "/LaQuangHai/movie/static/media/header_catalog.67e95f05e76a8cebf7e2.jpg",
-    "static/media/icon.png": "/LaQuangHai/movie/static/media/icon.b88fb91d8c157334032a.png",
-    "index.html": "/LaQuangHai/movie/index.html",
-    "main.952258c5.css.map": "/LaQuangHai/movie/static/css/main.952258c5.css.map",
-    "main.a0ab0713.js.map": "/LaQuangHai/movie/static/js/main.a0ab0713.js.map",
-    "787.e253fc0a.chunk.js.map": "/LaQuangHai/movie/static/js/787.e253fc0a.chunk.js.map"
+    "main.css": "/movie/static/css/main.952258c5.css",
+    "main.js": "/movie/static/js/main.c6c2087f.js",
+    "static/js/787.e253fc0a.chunk.js": "/movie/static/js/787.e253fc0a.chunk.js",
+    "static/media/footer.jpg": "/movie/static/media/footer.86d24c1b04f23de54e6d.jpg",
+    "static/media/header_catalog.jpg": "/movie/static/media/header_catalog.67e95f05e76a8cebf7e2.jpg",
+    "static/media/icon.png": "/movie/static/media/icon.b88fb91d8c157334032a.png",
+    "index.html": "/movie/index.html",
+    "main.952258c5.css.map": "/movie/static/css/main.952258c5.css.map",
+    "main.c6c2087f.js.map": "/movie/static/js/main.c6c2087f.js.map",
+    "787.e253fc0a.chunk.js.map": "/movie/static/js/787.e253fc0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.952258c5.css",
-    "static/js/main.a0ab0713.js"
+    "static/js/main.c6c2087f.js"
   ]
 }
